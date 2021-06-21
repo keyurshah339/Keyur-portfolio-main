@@ -278,3 +278,8 @@ svg {
     font-size: medium;
     font-family: 'Lobster', cursive;
 }
+
+.react-image{
+    height: 45px;
+    width: 45px;
+}
