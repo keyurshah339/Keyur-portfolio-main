@@ -7,12 +7,13 @@ sans-serif;
 }
 
 :root{
-    --primary-color: #c51ff8;
+    --primary-color: #B4D7BF;
     --dark-gray:  #6B7280;
     --light-gray: #D1D5DB;
     font-weight: 500;
 
 }
+
 
 
 hr{
@@ -45,7 +46,7 @@ hr{
 
 
 .link-primary{
-     background-color: var(--primary-color);
+     background-color:  #96b19f;
      border-radius: 0.5rem;
      color: white;   
      
@@ -53,10 +54,13 @@ hr{
 }
 
 .link-secondary{
-    color: var(--primary-color);
+    background-color: #EFBC68;
     border-radius: 0.5rem;
-    border: 2px solid var(--primary-color);
+    color: white;   
+    
+
 }
+
 
 .list-bullet-points{
     list-style: none;
@@ -138,7 +142,7 @@ hr{
 
 }
  .gray-section{
-    background-color: var(--light-gray);
+    background-color: #F2EEEE;
     border-radius: 1rem;
     padding: 1rem 1rem;
 }
@@ -182,7 +186,7 @@ html, body{
 }
 
 body{
-  background: #030321;
+  background: white;
   font-family: Arial;
 }
 
@@ -282,4 +286,18 @@ svg {
 .react-image{
     height: 45px;
     width: 45px;
+}
+
+.backgroundfooter{
+    background-color: #FFC09A;
+}
+
+.lines{
+    color: #F1C40F;
+    background-color: #F1C40F ;
+    
+}
+
+.navbuttons{
+    color:#EFBC68;
 }
